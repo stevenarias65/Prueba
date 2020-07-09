@@ -1,16 +1,16 @@
-#Curso
-#De Principiante
+# Curso
+# De Principiante
 
 Esto es un parrafo
 
-*Lapicero
-*Borrados
-    *otro
+* Lapicero
+* Borrados
+    * otro
 
 
-###Comando Ad-Hoc
+### Comando Ad-Hoc
 para ejercutar 
 
 ```
-$ajnskasnkdna
+$ ajnskasnkdna
 ```
